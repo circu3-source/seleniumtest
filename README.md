@@ -18,3 +18,11 @@
    ```bash
    git clone [https://github.com/circu3-source/seleniumtest.git](https://github.com/circu3-source/seleniumtest.git)
    cd seleniumtest
+
+2. **安裝必要套件**：
+   ```bash
+   pip install selenium webdriver-manager
+   
+3. **執行程式**：
+   ```bash
+   python selenium_test002.py
